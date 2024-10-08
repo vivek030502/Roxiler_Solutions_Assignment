@@ -34,7 +34,7 @@ The **Transaction Dashboard** is a dynamic web application designed to allow use
 1. **Clone the repository**:
 
    ```bash
-  git clone https://github.com/yourusername/transaction-dashboard.git
+  git clone (https://github.com/vivek030502/Roxiler_Solutions_Assignment)
    ```
 
 2. **Navigate to the backend directory**:
